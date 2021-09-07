@@ -6,7 +6,6 @@ root.title("Locação de Veiculos Localto")
 root.geometry("1350x670+0+0")
 
 
-
 #-------------------------------FRAME ESQUERDO------------------------------------------
 
 LeftMainFrame = Frame(root,width=1000,height=650,bd=2,relief="raise")
